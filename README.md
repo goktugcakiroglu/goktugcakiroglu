@@ -28,21 +28,6 @@ As a Computer Engineering student, I avoid limiting myself to a single technolog
 
 ---
 
-## 🪐 Featured Experiments & Projects
-
-### 🧱 System Design & Automata
-* **[TinySys](https://github.com/goktugcakiroglu/TinySys)**: A full-stack compiler ecosystem converting high-level TinyLang to Motorola 6800 Assembly.
-* **[Low-Level-Universe](https://github.com/goktugcakiroglu/Low-Level-Universe)**: Bare-metal x86 Assembly portfolio exploring memory segmentation and custom bootloaders.
-* **[OS-Process-Scheduler](https://github.com/goktugcakiroglu/OS-Process-Scheduler)**: An OS process scheduling simulator featuring dynamic CPU and I/O burst tracking.
-* **[AutomataLab](https://github.com/goktugcakiroglu/AutomataLab)**: A full-stack simulator for mapping formal languages and automata theory.
-
-### 🤖 Intelligent Applications
-* **[BTK-Akademi-Hackhaton-E-Ticaret-Yorum-Analisti](https://github.com/goktugcakiroglu/BTK-Akademi-Hackhaton-E-Ticaret-Yorum-Analisti)**: An autonomous business intelligence system using Agentic Frameworks and Multimodal AI.
-* **[PlanFlowAIChallenge-ProcrastinAI](https://github.com/goktugcakiroglu/PlanFlowAIChallenge-ProcrastinAI)**: An intelligent planning prototype powered by Google Gemini AI.
-* **[AlfabeDonusturucu](https://github.com/goktugcakiroglu/AlfabeDonusturucu)**: An Android app utilizing Strategy and Factory software design patterns.
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="left">
