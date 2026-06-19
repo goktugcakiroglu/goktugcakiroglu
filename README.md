@@ -1,7 +1,7 @@
 # Hi there, I'm Göktuğ Çakıroğlu 👋
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/131802447/242134324-ee4ce01e-7613-4ef9-b47d-fbff5816ee34.png" alt="The Thinker - Philosophy of Engineering" width="300">
+  <img src="https://images.squarespace-cdn.com/content/v1/59df95b3f7e0ab46261c324b/1510574880315-G49T4N2S7XW2L8M8NIPG/philosophy-icon-white.png" alt="The Thinker - Philosophy of Engineering" width="220">
 </p>
 
 <p align="left">
