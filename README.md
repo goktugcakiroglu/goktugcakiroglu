@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Education-Computer%20Engineering%20(EN)-blue?style=flat-square" alt="Education">
+  <img src="https://img.shields.io/badge/Education-Computer%20Engineering%20-blue?style=flat-square" alt="Education">
   <img src="https://img.shields.io/badge/Mindset-Continuous%20Learning%20%26%20Experimentation-orange?style=flat-square" alt="Mindset">
 </p>
 
