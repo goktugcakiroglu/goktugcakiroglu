@@ -1,7 +1,7 @@
 # Hi there, I'm Göktuğ Çakıroğlu 👋
 
 <p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N6ZWF0YndndXN0Zzd4M3N2cTVwZnR6YmNreG93Y282NnFudG94OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/l0HlU3eM7S759vIuA/giphy.gif" alt="Armillary Sphere - Universal Curiosity" width="350">
+  <img src="https://i.postimg.co/yYvXf09Y/armillary-sphere.gif" alt="Universal Curiosity" width="250">
 </p>
 
 <p align="left">
