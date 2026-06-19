@@ -1,7 +1,7 @@
 # Hi there, I'm Göktuğ Çakıroğlu 👋
 
 <p align="center">
-  <img src="https://i.postimg.co/yYvXf09Y/armillary-sphere.gif" alt="Universal Curiosity" width="250">
+  <img src="https://user-images.githubusercontent.com/131802447/242134324-ee4ce01e-7613-4ef9-b47d-fbff5816ee34.png" alt="The Thinker - Philosophy of Engineering" width="300">
 </p>
 
 <p align="left">
