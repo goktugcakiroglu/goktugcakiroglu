@@ -1,7 +1,7 @@
 # Hi there, I'm Göktuğ Çakıroğlu 👋
 
-<p align="center">
-  <img src="8-cell-simple.gif" alt="Tesseract - Architectural Dimensions" width="160">
+<p align="left">
+  <img src="8-cell-simple.gif" alt="Tesseract - Architectural Dimensions" width="300">
 </p>
 
 <p align="left">
