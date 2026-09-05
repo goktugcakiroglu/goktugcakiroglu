@@ -31,7 +31,7 @@ As a Computer Engineering student, I avoid limiting myself to a single technolog
 ## 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats-swart-one-c6gqshhu4j.vercel.app/api/top-langs/?username=goktugcakiroglu&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="180">
+  <img src="https://github-readme-stats-swart-one-c6gqshhu4j.vercel.app/api/top-langs/?username=goktugcakiroglu&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800" alt="Top Languages" height="180">
 </p>
 
 ---
